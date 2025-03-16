@@ -1,0 +1,2 @@
+[console_scripts]
+houdini-mcp = houdini_mcp.server:main

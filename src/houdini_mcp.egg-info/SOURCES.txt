@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+setup.py
+src/houdini_mcp/__init__.py
+src/houdini_mcp/main.py
+src/houdini_mcp/server.py
+src/houdini_mcp.egg-info/PKG-INFO
+src/houdini_mcp.egg-info/SOURCES.txt
+src/houdini_mcp.egg-info/dependency_links.txt
+src/houdini_mcp.egg-info/entry_points.txt
+src/houdini_mcp.egg-info/top_level.txt
